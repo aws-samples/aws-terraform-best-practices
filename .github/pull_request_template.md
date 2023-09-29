@@ -11,7 +11,7 @@ Consult the [CONTRIBUTING](../blob/main/CONTRIBUTING.md#contributing-via-pull-re
 
 ### Checklist
 
-- [ ] Yes, I have updated the [docs](../../blob/main/docs) for this change.
+- [ ] Yes, I have updated the documentation for this change.
 - [ ] Yes, [pre-commit hooks](../../blob/main/CONTRIBUTING.md#execute-pre-commit-hooks-manually-on-all-files) have been executed successfully.
 
 ## Additional Notes
