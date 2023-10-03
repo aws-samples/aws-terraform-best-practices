@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "streetsidesoftware.code-spell-checker",
+    "davidanson.vscode-markdownlint",
+    "donjayamanne.githistory",
+    "esbenp.prettier-vscode",
+    "vscode-icons-team.vscode-icons",
+    "editorconfig.editorconfig"
+  ]
+}
