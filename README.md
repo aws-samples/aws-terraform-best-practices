@@ -1,5 +1,8 @@
 # AWS Terraform Best Practices
 
+> [!IMPORTANT]
+> This repository is archived and no longer maintained. For current guidance, see [Best practices for using the Terraform AWS Provider](https://docs.aws.amazon.com/prescriptive-guidance/latest/terraform-aws-provider-best-practices/introduction.html) in AWS Prescriptive Guidance.
+
 The purpose of this repository is to provide Terraform best practices as well as agreed-upon ways to work effectively as a team that will help you deliver high quality Terraform code.
 
 <!-- TOC -->
